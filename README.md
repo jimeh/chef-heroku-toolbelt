@@ -1,7 +1,12 @@
 # chef-heroku-toolbelt
 
-A simple Chef cookbook to install the
-[Heroku Toolbelt](https://toolbelt.heroku.com/).
+A simple Chef cookbook to install the [Heroku Toolbelt][]. Shamelessly
+inspired by / borrowed from [@rchampourlier][]'s [cookbook][] of the same
+name.
+
+[Heroku Toolbelt]: https://toolbelt.heroku.com/
+[@rchampourlier]: https://github.com/rchampourlier
+[cookbook]: https://github.com/rchampourlier/chef-heroku-toolbelt
 
 ## Recipes
 
